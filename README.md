@@ -14,7 +14,8 @@
 1. `DDL` для созадния таблиц;
 2. `DML` для наполнения таблиц;
 3. `Window functions`
-3. `View`
+4. 'Aggregate functions'
+5. `View`
 
 ### Запуск контейнера
 
